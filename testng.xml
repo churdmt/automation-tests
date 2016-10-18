@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="loginTestsPkg.SIParticipant_LiveLogin"/>
+      <class name="loginTestsPkg.TaskOwner_LiveLogin"/>
+      <class name="loginTestsPkg.AllManager_LiveLogin"/>
+      <class name="loginTestsPkg.DriverUser_LiveLogin"/>
+      <class name="loginTestsPkg.DCFUser_LiveLogin"/>
+      <class name="loginTestsPkg.RegularUser_LiveLogin"/>
+      <class name="loginTestsPkg.SIOwner_LiveLogin"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
